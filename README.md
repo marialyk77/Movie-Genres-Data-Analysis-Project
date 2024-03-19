@@ -1,6 +1,6 @@
 ❤️ I am supper supper HAPPY having completed my first Full Project with Python. 
 
-📣 This projetc is sourced from the course of Alex Freberg: Pandas for Data analysis:   
+📣 This project is sourced from the course of Alex Freberg: Pandas for Data analysis:   
 
            https://www.analystbuilder.com/courses/pandas-for-data-analysis 
 
